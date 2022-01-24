@@ -1,0 +1,14 @@
+	Puntos	Equipo 3	
+0 - cuenta testlodge	4	4	
+1 - introducción ( 7 ppipios)	4	3,5	la info está bien completa y correcta, la presentación es clara pero falta esquematizarla un poco más, poner las ideas principales de forma esquemática en lugar de tanto texto
+2 - tipos pruebas esquema / definicion tipos (1 diapo por cada) / coste prueba por nivel/ coste por fase	8	7,5	
+3 - definicion / principios /ventajas 	6	6	esta si está mejor esquematizada y completa muy bien.
+4 - plan pruebas	6	6	
+5 - doc requisitos	4	4	
+6 - unitarias	18	13	En general están bien definidas, y las más básicas las tenéis cubiertas, menos la de asignar equipo que deberíais comprobar que no se pueda añadir un equipo que no exista o un jugador que no exista, que son dos pruebas importantes que no habéis aplicado. Os han faltado algunos casos concretos por ejemplo en añadir jugador el campo nombre os han faltado ademas de menor a 4 y mayor a 20, igual a 4 e igual a 20. Os ha faltado también el caso de idioma vacío.  También en ranking os falta fuera de rango de mayor a 10 en el ranking, los valores vacíos de ranking o de nombre, 
+7 - aceptación	15	15	Las pruebas en general están bien definidas, comprobando los diferentes casos más relevantes de todos los grupos, y aquí si comprobáis bien si el jugador ha sido añadido anteriomente o no.
+8 - regresión	12	12	Habéis elegido bien como regresión las dos de aceptación más importantes para cada caso.
+9 - implementación formularios	15	15	
+10 - proyecto java	6	6	
+11 - ejecución pruebas	12	12	la ejecución de pruebas está bien detallada y completa y con el estado correcto de pass cuando hace lo que se espera y fail cuando no
+	110	104	
